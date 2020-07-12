@@ -1,14 +1,10 @@
 ---
 layout: default
 ---
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+**O sobie**
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum massa nisi, posuere quis mattis nec, rhoncus vel leo. Nunc tristique condimentum fermentum. Nunc feugiat neque lacus, ac pulvinar purus mattis et.
+ 
+Ut nec euismod felis. Maecenas varius vehicula accumsan. Quisque sit amet justo a sem sagittis viverra. Donec mattis, ipsum ut dignissim mollis, tellus velit malesuada nunc, eu finibus turpis. 
 
 # Header 1
 
