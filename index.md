@@ -9,7 +9,7 @@ Ut nec euismod felis. Maecenas varius vehicula accumsan. Quisque sit amet justo 
 
 ## Doświadczenie
 Lorem ipsum dolor sit amet
-
+</br>
 Lorem ipsum dolor sit amet
 
 Lorem ipsum dolor sit amet
